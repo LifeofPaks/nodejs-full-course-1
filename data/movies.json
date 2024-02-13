@@ -1,0 +1,5 @@
+[
+  { "id": 2, "name": "Lift", "releaseYear": "2024", "duration": 90 },
+  { "id": 3, "name": "Russian Spy", "releaseYear": "2024", "duration": 100 },
+  { "id": 4, "name": "Star Trek", "releaseYear": 2019, "duration": 90 }
+]
